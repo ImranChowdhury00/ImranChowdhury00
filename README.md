@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
 <h3 align="center">A passionate ML Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Django, Computer vision ,LLM**
+-  I’m currently learning **Django, Computer vision ,LLM**
 
 - 💬 Ask me about **AI/ML, Deep learning**
 
