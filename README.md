@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Imran</h1>
 <h3 align="center">A passionate ML Engineer from Bangladesh</h3>
 
--  I’m currently learning **Django, Computer vision ,LLM**
+-  I’m currently enriching my knowledge in **DRF, Computer vision ,LLM**
 
-- 💬 Ask me about **AI/ML, Deep learning**
+- 💬 Ask me about **React, Django, AI/ML, Deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
