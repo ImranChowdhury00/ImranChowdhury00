@@ -41,11 +41,10 @@ I'm a software engineer passionate about building scalable backend systems, REST
 - System Design
 - Deep Learning
 
-- 💬 Ask me about **React, Django, AI/ML, Deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-karim-chowdhury-ivan-236423265/" height="30" width="40" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/imranch00/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-karim-chowdhury-ivan-236423265/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imran_chowdhury34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imran_chowdhury34" height="30" width="40" /></a>
 </p>
 
