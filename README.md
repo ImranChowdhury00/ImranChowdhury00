@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about building scalable backend systems, REST APIs, and modern web applications. I enjoy solving problems, learning new technologies, and exploring Machine Learning and Deep Learning.
 
-<h2 align="center">Tech Stack</h2>
+# Teck Stack
 
 <table>
 <tr>
