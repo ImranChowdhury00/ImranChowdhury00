@@ -1,7 +1,45 @@
-<h1 align="center">Hi, I'm Imran</h1>
-<h3 align="center">A passionate ML Engineer from Bangladesh</h3>
+# Hi there, I'm Imran 
 
--  I’m currently enriching my knowledge in **DRF, Computer vision ,LLM**
+### Backend Engineer | Spring Boot | Django | FastAPI | React
+
+I'm a software engineer passionate about building scalable backend systems, REST APIs, and modern web applications. I enjoy solving problems, learning new technologies, and exploring Machine Learning and Deep Learning.
+
+## Tech Stack
+
+### Backend
+- Spring Boot
+- Django
+- Django REST Framework
+- FastAPI
+- Java
+- Python
+
+### Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Tools & Technologies
+- Git & GitHub
+- JWT Authentication
+- REST APIs
+- RBAC (Role-Based Access Control)
+- Docker (Learning)
+
+### AI / ML
+- Machine Learning
+- Deep Learning
+- Data Analysis
+
+## Currently Learning
+- Advanced Spring Boot
+- Microservices Architecture
+- System Design
+- Deep Learning
 
 - 💬 Ask me about **React, Django, AI/ML, Deep learning**
 
