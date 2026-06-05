@@ -34,9 +34,7 @@ I'm a software engineer passionate about building scalable backend systems, REST
 - Tailwind CSS
 
 </td>
-</tr>
 
-<tr>
 <td valign="top">
 
 #### Database
