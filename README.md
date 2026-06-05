@@ -4,36 +4,57 @@
 
 I'm a software engineer passionate about building scalable backend systems, REST APIs, and modern web applications. I enjoy solving problems, learning new technologies, and exploring Machine Learning and Deep Learning.
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Backend
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Backend
 - Spring Boot
 - Django
-- Django REST Framework
+- DRF
 - FastAPI
+
+#### Languages
 - Java
 - Python
 
-### Frontend
-- React.js
+</td>
+
+<td valign="top" width="33%">
+
+#### Frontend
+- React
 - Tailwind CSS
 - JavaScript
 
-### Database
+#### Database
 - PostgreSQL
 - MySQL
 
-### Tools & Technologies
-- Git & GitHub
-- JWT Authentication
-- REST APIs
-- RBAC (Role-Based Access Control)
-- Docker (Learning)
+</td>
 
-### AI / ML
+<td valign="top" width="33%">
+
+#### Tools
+- Git
+- GitHub
+- Docker
+- JWT
+- REST APIs
+- RBAC
+
+#### AI/ML
 - Machine Learning
 - Deep Learning
 - Data Analysis
+
+</td>
+</tr>
+</table>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
