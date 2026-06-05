@@ -8,7 +8,16 @@ I'm a software engineer passionate about building scalable backend systems, REST
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top">
+
+#### Languages
+- Java
+- Python
+- JavaScript
+
+</td>
+
+<td valign="top">
 
 #### Backend
 - Spring Boot
@@ -16,18 +25,19 @@ I'm a software engineer passionate about building scalable backend systems, REST
 - DRF
 - FastAPI
 
-#### Languages
-- Java
-- Python
-
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 #### Frontend
 - React
 - Tailwind CSS
-- JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 #### Database
 - PostgreSQL
@@ -35,7 +45,7 @@ I'm a software engineer passionate about building scalable backend systems, REST
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 #### Tools
 - Git
@@ -44,6 +54,10 @@ I'm a software engineer passionate about building scalable backend systems, REST
 - JWT
 - REST APIs
 - RBAC
+
+</td>
+
+<td valign="top">
 
 #### AI/ML
 - Machine Learning
