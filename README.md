@@ -6,65 +6,20 @@ I'm a software engineer passionate about building scalable backend systems, REST
 
 # Teck Stack
 
-<table>
-<tr>
-<td valign="top">
+<h2 align="center">Tech Stack</h2>
 
-#### Languages
-- Java
-- Python
-- JavaScript
+<div align="center">
 
-</td>
+| Languages | Backend | Frontend | Database | Tools | AI/ML |
+|------------|------------|------------|------------|------------|------------|
+| Java | Spring Boot | React | PostgreSQL | Git | Machine Learning |
+| Python | Django | Tailwind CSS | MySQL | GitHub | Deep Learning |
+| JavaScript | DRF |  |  | Docker | Data Analysis |
+|  | FastAPI |  |  | JWT |  |
+|  |  |  |  | REST APIs |  |
+|  |  |  |  | RBAC |  |
 
-<td valign="top">
-
-#### Backend
-- Spring Boot
-- Django
-- DRF
-- FastAPI
-
-</td>
-
-<td valign="top">
-
-#### Frontend
-- React
-- Tailwind CSS
-
-</td>
-
-<td valign="top">
-
-#### Database
-- PostgreSQL
-- MySQL
-
-</td>
-
-<td valign="top">
-
-#### Tools
-- Git
-- GitHub
-- Docker
-- JWT
-- REST APIs
-- RBAC
-
-</td>
-
-<td valign="top">
-
-#### AI/ML
-- Machine Learning
-- Deep Learning
-- Data Analysis
-
-</td>
-</tr>
-</table>
+</div>
 
 
 
